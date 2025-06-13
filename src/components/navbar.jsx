@@ -1,6 +1,7 @@
 import { useNavigate } from 'react-router-dom';
 import { useState } from 'react';
 import ThemeToggle from './ThemeToggle';
+import HabotLogo2 from '../assets/HabotLogo2.png'; // ✅ import the logo
 
 function Navbar({ onSearch }) {
   const [searchTerm, setSearchTerm] = useState('');
@@ -22,9 +23,16 @@ function Navbar({ onSearch }) {
     <nav className="bg-white dark:bg-gray-900 text-black dark:text-white shadow-md px-6 py-4 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 sm:gap-0 transition-colors duration-300">
       <div
         onClick={handleLogoClick}
-        className="text-xl font-bold text-blue-600 dark:text-blue-400 cursor-pointer"
+        className="flex items-center gap-2 cursor-pointer"
       >
-        Learning Support Directory
+        <img
+          src={HabotLogo2}
+          alt="Habot Logo"
+          className="w-20 h-20 object-contain"
+/>
+        <span className="text-xl font-bold text-blue-600 dark:text-blue-400">
+          HABOT Learning Support
+        </span>
       </div>
 
       <div className="flex items-center w-full sm:w-auto gap-2">
