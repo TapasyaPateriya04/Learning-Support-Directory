@@ -75,5 +75,60 @@
     "longDescription": "ThinkSpace embraces neurodivergent learners with individualized support plans, mindfulness coaching, and inclusive educational strategies.",
     "contactEmail": "team@thinkspace.ae",
     "phoneNumber": "+971 59 321 4433"
+  },
+  {
+    "id": "8",
+    "name": "NeuroBloom Center",
+    "specialization": "Sensory Integration Therapy",
+    "location": "Dubai - Deira",
+    "rating": 4,
+    "shortDescription": "Helps children with sensory processing disorders thrive in daily environments.",
+    "longDescription": "NeuroBloom offers personalized sensory integration programs that help children with autism, ADHD, and other neurodevelopmental differences build balance, focus, and comfort in sensory-rich environments.",
+    "contactEmail": "info@neurobloom.ae",
+    "phoneNumber": "+971 52 123 4567"
+  },
+  {
+    "id": "9",
+    "name": "Cognitive Pathways",
+    "specialization": "Cognitive Behavioral Coaching",
+    "location": "Abu Dhabi - Al Reem Island",
+    "rating": 5,
+    "shortDescription": "Boosts executive functioning and emotional regulation.",
+    "longDescription": "Cognitive Pathways specializes in goal-oriented cognitive behavioral strategies that assist children in developing emotional control, focus, and decision-making abilities.",
+    "contactEmail": "hello@cognitivepathways.ae",
+    "phoneNumber": "+971 55 987 6543"
+  },
+  {
+    "id": "10",
+    "name": "ReadRight Institute",
+    "specialization": "Reading & Literacy Development",
+    "location": "Sharjah - Al Majaz",
+    "rating": 4,
+    "shortDescription": "Supports reading fluency and phonics development.",
+    "longDescription": "ReadRight provides individualized reading support using evidence-based phonics and comprehension techniques. Perfect for children with dyslexia or delayed reading skills.",
+    "contactEmail": "contact@readright.ae",
+    "phoneNumber": "+971 56 334 4221"
+  },
+  {
+    "id": "11",
+    "name": "Bright Horizon Clinic",
+    "specialization": "ADHD and Behavioral Therapy",
+    "location": "Ajman - Al Jurf",
+    "rating": 3,
+    "shortDescription": "Focuses on self-control and attention through behavior plans.",
+    "longDescription": "Bright Horizon supports children with ADHD through individualized behavior management plans and coaching for both parents and children. In-person and online sessions available.",
+    "contactEmail": "support@brighthorizon.ae",
+    "phoneNumber": "+971 50 223 3445"
+  },
+  {
+    "id": "12",
+    "name": "Lexis Learning Lab",
+    "specialization": "Speech & Language Therapy",
+    "location": "Dubai - Al Qusais",
+    "rating": 5,
+    "shortDescription": "Improves communication skills with expert therapy.",
+    "longDescription": "Lexis Lab works with children who face delays in speech, language comprehension, and verbal expression. Highly qualified speech therapists tailor sessions to each child’s pace.",
+    "contactEmail": "admin@lexislab.ae",
+    "phoneNumber": "+971 54 123 7890"
   }
 ]

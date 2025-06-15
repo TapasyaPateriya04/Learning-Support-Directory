@@ -1,12 +1,48 @@
-# React + Vite
+# 🧠 Learning Support Provider Directory
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and user-friendly React application that allows parents to browse and search for learning support providers. Built for **Habot Connect DMCC** as part of a UI/UX Developer (React) pre-interview assignment.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
 
-## Expanding the ESLint configuration
+> _Deployed link (e.g. Vercel/Netlify) can be added here later._
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📚 Project Overview
+
+This project helps parents discover specialized learning support providers based on different learning difficulties like Dyslexia, ADHD, Autism, and more. It includes provider listings, detailed views, search/filter functionality, and educational flashcards for awareness.
+
+---
+
+## 🚀 Features
+
+- 🔍 **Search & Filter**: Filter providers by name or specialization in real-time.
+- 📄 **Detail Pages**: View complete info about each provider including specialization, location, and contact.
+- 💡 **Educational Flashcards**: Interactive cards to raise awareness about learning difficulties.
+- 🌗 **Dark/Light Mode Toggle**: Seamless theme switching.
+- 🧭 **Responsive Navigation**: Accessible from any device.
+- 📄 **About & Resources Pages**: Extra pages to showcase project scalability and UX.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React (with Hooks), Tailwind CSS, React Router
+- **Tooling**: Vite, PostCSS
+- **Deployment**: *(To be added)*
+
+---
+
+## 📦 Installation
+
+```bash
+clone this repo then follow the below commands:
+
+cd learning-support-directory
+
+npm install
+
+npm run dev
+
