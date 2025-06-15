@@ -1,5 +1,6 @@
 import { useNavigate, Link } from 'react-router-dom'; 
 import { useState } from 'react';
+import ThemeToggle from './ThemeToggle';
 import HabotLogo2 from '../assets/HabotLogo2.png';
 
 function Navbar({ onSearch }) {
@@ -59,6 +60,7 @@ function Navbar({ onSearch }) {
             value={searchTerm}
             onChange={handleInputChange}
           />
+          <ThemeToggle />
         </div>
       </div>
     </nav>
