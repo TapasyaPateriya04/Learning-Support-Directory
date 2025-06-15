@@ -21,7 +21,6 @@ This project helps parents discover specialized learning support providers based
 - 🔍 **Search & Filter**: Filter providers by name or specialization in real-time.
 - 📄 **Detail Pages**: View complete info about each provider including specialization, location, and contact.
 - 💡 **Educational Flashcards**: Interactive cards to raise awareness about learning difficulties.
-- 🌗 **Dark/Light Mode Toggle**: Seamless theme switching.
 - 🧭 **Responsive Navigation**: Accessible from any device.
 - 📄 **About & Resources Pages**: Extra pages to showcase project scalability and UX.
 
