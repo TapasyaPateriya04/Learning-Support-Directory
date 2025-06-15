@@ -6,7 +6,7 @@ A responsive and user-friendly React application that allows parents to browse a
 
 ## 🌐 Live Demo
 
-> _Deployed link (e.g. Vercel/Netlify) can be added here later._
+> _Deployed link [https://learning-support-directory-three.vercel.app/]
 
 ---
 
@@ -29,8 +29,8 @@ This project helps parents discover specialized learning support providers based
 ## 🛠️ Tech Stack
 
 - **Frontend**: React (with Hooks), Tailwind CSS, React Router
-- **Tooling**: Vite, PostCSS
-- **Deployment**: *(To be added)*
+- **Tooling**: Vite
+- **Deployment**: Vercel
 
 ---
 
